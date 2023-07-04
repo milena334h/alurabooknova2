@@ -2,7 +2,11 @@
    
 
 :root{
-    --cor-de-fundo:#EBCBEE
+    --cor-de-fundo:#EBECEE;
+    --branco:#FFFFFF;
     
 }
-body{background-color: darkorange;}
+
+body{
+    background-color:var(--cor-de-fundo);
+}
